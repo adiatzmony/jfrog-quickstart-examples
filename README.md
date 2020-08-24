@@ -1,4 +1,4 @@
-# JFrog Free Cloud Subscription: QuickStart Guide
+# JFrog QuickStart Guide Examples (Free Cloud Subscription)
 
 The JFrog Platform is an enterprise-ready automated end-to-end DevOps platform, ideal for managing all of your software releases from code to production.
 

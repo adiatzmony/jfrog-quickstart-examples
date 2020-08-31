@@ -2,7 +2,7 @@
 
 The JFrog Platform is an enterprise-ready automated end-to-end DevOps platform, ideal for managing all of your software releases from code to production.
 
-This repository contains two projects, Docker and Pipelines, setup to easily get you started with your Free JFrog Cloud subscription. Follow the steps in the [JFrog Free Cloud Subscription: QuickStart Guide](https://jfrog.com/). The guide will introduce you to some of the basic functionality of the JFrog Platform and these JFrog solutions that are included with your free account: 
+This repository contains two projects, Docker and Pipelines, setup to easily get you started with your Free JFrog Cloud subscription. Follow the steps in the [JFrog Free Cloud Subscription: QuickStart Guide](https://www.jfrog.com/confluence/x/ZxTXBg). The guide will introduce you to some of the basic functionality of the JFrog Platform and these JFrog solutions that are included with your free account: 
 
 * JFrog Artifactory: [Universal package management](https://www.jfrog.com/confluence/display/JFROG/Package+Management) with all major packaging formats, build tools, and CI servers.
 * JFrog Xray: [Open source security scanning and license compliance](https://www.jfrog.com/confluence/display/JFROG/Xray+Security+and+Compliance) enabling DevSecOps and ensuring application security throughout your SDLC.
